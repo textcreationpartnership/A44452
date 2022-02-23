@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Murmurers reproved A sermon preached at St. Vedas [sic], alias Foster-Lane, on Feb. 24. 1688/9. By Marmaduke Hopkins rector there.</title>
+            <author>Hopkins, Marmaduke, d. 1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44452</idno>
+            <idno type="STC">Wing H2750A</idno>
+            <idno type="STC">ESTC R216423</idno>
+            <idno type="EEBO-CITATION">99828154</idno>
+            <idno type="PROQUEST">99828154</idno>
+            <idno type="VID">32581</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44452)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32581)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1926:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Murmurers reproved A sermon preached at St. Vedas [sic], alias Foster-Lane, on Feb. 24. 1688/9. By Marmaduke Hopkins rector there.</title>
+                  <author>Hopkins, Marmaduke, d. 1707.</author>
+               </titleStmt>
+               <extent>[4], 7-34, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Jonathan Robinson, at the Golden Lion in St. Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXIX. [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Copy lacking a half-title? Text begins on p. 7.</note>
+                  <note>Reproduction of the original in Christ's College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32581:1"/>
+            <pb facs="tcp:32581:1" rendition="simple:additions"/>
+            <p>Murmurers Reproved.</p>
+            <p>A SERMON Preached at St. VEDAS, alias <hi>Foſter-Lane,</hi> on <hi>Feb.</hi> 24. 1688/9.</p>
+            <p>BY <hi>MARMAD<g ref="char:V">Ʋ</g>KE HOPKINS</hi> RECTOR there.</p>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Ionathan Robinſon,</hi> at the Golden Lion in St. <hi>Paul</hi>'s Church-Yard, MDCLXXXIX.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:32581:2"/>
+            <pb facs="tcp:32581:2"/>
+            <head>To my moſt Loving, and moſt Reſpected Friends and Pariſhoners, who deſi<g ref="char:EOLhyphen"/>red the following Copy.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>MY Deſign, in preaching this Sermon, was pure<g ref="char:EOLhyphen"/>ly to perſwade you to injoy with Peace and Thankfulneſs, the ineſtimable Bleſſings which Divine Providence has ſecured to you, by this moſt Great and Won<g ref="char:EOLhyphen"/>derful Revolution. And you, by re<g ref="char:EOLhyphen"/>queſting the Copy of it, have given me Aſſurance, I have obtain'd my Deſign; and that you will approve your ſelves
+<pb facs="tcp:32581:3"/>
+True and Faithful Subjects to their preſent Majeſties. If any Reflections are thought to be made in the Sermon, they were intended only againſt the Ro<g ref="char:EOLhyphen"/>man Prieſts, who go up and down in diſguiſe to raiſe Diſcontent. I thought it my Duty to caution you, not to give an Ear to them. I further requeſt you to pray, that God would ſtrengthen the Thing he has wrought for us.</p>
+            <closer>
+               <signed>I am, Your faithful Servant, <hi>M.H.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="doctrine">
+            <pb n="7" facs="tcp:32581:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 COR. x.</hi> ver. <hi>10.</hi>
+                  </bibl>
+                  <p>Neither murmur ye, as ſome of them alſo murmured, and were deſtroyed of the Deſtroyer.</p>
+               </q>
+            </epigraph>
+            <p>THE greater Kindneſſes that God ſhews unto Men, the more plainly he manifeſts Himſelf, his Power and Goodneſs to them; the greater Returns of Love and Obe<g ref="char:EOLhyphen"/>dience does he expect from them, the more highly is he provoked by their Sins, and the more ſeverely will he puniſh them. He connived at thoſe Sins in the ignorant Gentiles, which in his own People he would not ſuf<g ref="char:EOLhyphen"/>fer
+<pb n="8" facs="tcp:32581:4"/>
+to eſcape unpuniſh'd. <hi>You only have I known of all the Families of the Earth;</hi>
+               <note place="margin">Amos 3. verſ. 2.</note> (ſaid he unto them, by the Mouth of his Prophet <hi>Amos) therefore I will puniſh you for all your Iniquities.</hi> That the Holy Ghoſt has ſo particularly recorded the Sins into which the Iſralites fell, during the time of their ſojourning in the Deſert, and the Puniſhments which over-took them for their Sins, was not for the ſake of ſuch amongſt them as eſcap'd, nor for the ſake of their Poſterity af<g ref="char:EOLhyphen"/>ter the Fleſh only, but for our's alſo upon whom the Ends of the World are come, as the ſame Divine Spirit has ſignified to us, by the Pen of the Great Apoſtle St. <hi>Paul,</hi> in this ve<g ref="char:EOLhyphen"/>ry Chapter out of which my Text is taken, <hi>verſ.</hi> 6. <hi>Now theſe things were our Examples,</hi> &amp;c. His meaning is,
+<pb n="9" facs="tcp:32581:4"/>
+The Judgments which overtook them for their Sins, are ſo particularly re<g ref="char:EOLhyphen"/>corded, on purpoſe to terrify us from ſinning in thoſe Inſtances they did, five whereof the Apoſtle has here ſet down; the laſt is, in the words of the Text, <hi>Neither murmur ye, as ſome of them alſo murmured, and were deſtroyed of the Deſtroyer.</hi>
+            </p>
+            <p>Wherein we have to obſerve,</p>
+            <p n="1">1ſt, Their Sin, <hi>They murmured.</hi>
+            </p>
+            <p n="2">2ly, The puniſhment which befel them for their Sin, They <hi>were de<g ref="char:EOLhyphen"/>ſtroyed of the Deſtroyer.</hi>
+            </p>
+            <p n="3">3ly, The warning we ſhould take thereby, <hi>Neither murmur ye.</hi>
+            </p>
+            <p>
+               <hi>Neither murmur ye, as ſome of them alſo murmured, and were deſtroyed of the Deſtroyer.</hi>
+            </p>
+            <p n="1">
+               <pb n="10" facs="tcp:32581:5"/>1ſt, They murmured againſt God, which is a Sin of a very high Na<g ref="char:EOLhyphen"/>ture; whatever Mens external State be, how unpleaſant ſoever their out<g ref="char:EOLhyphen"/>ward Condition is. For what can Men intend by it? Nothing leſs cer<g ref="char:EOLhyphen"/>tainly, Than that they would have their Wills to take place of God's Will. They are angry that the Go<g ref="char:EOLhyphen"/>vernment of the World is in his Hands who created the World; or that the All-wiſe God does not ma<g ref="char:EOLhyphen"/>nage the Affairs of the World, juſt according to their Mind and Liking, who are ignorant and brutiſh as the Beaſts of the Field. Our condition in this Life can ſcarcely be ſo bad, but that inſtead of repining againſt God that it is not better, we ſhall have cauſe to bleſs him that it is not worſe, and to ſay with that Emi<g ref="char:EOLhyphen"/>nent
+<pb n="11" facs="tcp:32581:5"/>
+Servant of God, holy <hi>Job, The Lord gives,</hi>
+               <note place="margin">Job 1.21.</note> 
+               <hi>and the Lord takes away; Bleſſed be the Name of the Lord.</hi> But the better that Mens outward Condition is, the more eaſy their external Circumſtances are; the greater the Mercies are they have re<g ref="char:EOLhyphen"/>ceived, and the more excellent the Bleſſings they injoy, the greater is their Sin in repining and murmuring. Theſe were the things which aggra<g ref="char:EOLhyphen"/>vated this Sin in the Iſraelites. When they groaned, ſometime under the grievous Burdens the Egyptian Task-maſters impos'd on them, and were even ready to expire under the in<g ref="char:EOLhyphen"/>ſupportable Yoke of Servitude, out of which they ſaw no other way, poſſible, of eſcaping, but dying, God of his tender Mercies and Com<g ref="char:EOLhyphen"/>paſſions, was pleaſed to viſit them
+<pb n="12" facs="tcp:32581:6"/>
+with his Salvation, and raiſe them up a Mighty Deliverer, even <hi>Moſes</hi> 
+               <note n="*" place="margin">Called the Son of <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi>'s Daughter, <hi>Heb. 11.24.</hi>
+               </note>, a Glorious Prince, excelling in Wiſdom and Goodneſs. By whom God wrought ſuch Signs and Wonders on the behalf of his miſerable oppreſſed People,<note place="margin">Exod. 9.18.</note> that even <hi>Jannes</hi> and <hi>Jam<g ref="char:EOLhyphen"/>bres,</hi> the chiefeſt Magicians of <hi>Egypt,</hi> were conſtrain'd to acknowledg that the finger of God was in them. God put a manifeſt difference between the Iſraelites and the Egyptians: and when all the Cattel of <hi>Egypt</hi> died, not one died of all that were the Children of <hi>Iſraels;</hi>
+               <note place="margin">Exod. 20.23.</note> when a thick and black Darkneſs overſpread the Land, that the Egyptians could not ſee one another, all the Iſraelites injoyed Light in their Habitations. When the De<g ref="char:EOLhyphen"/>ſtroyer entred the Houſes of the Egyptians,<note place="margin">Exod. 12.29.</note> and ſlew all their firſt-born,
+<pb n="13" facs="tcp:32581:6"/>
+he paſſed over the Houſes of the Iſ<g ref="char:EOLhyphen"/>raelites. To whom alſo God gave of the Riches and Treaſures of <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> Jewels of Silver, and Jewels of Gold; and at laſt brought them out of that Servitude by a mighty Hand, and powerful Arm. Now God might juſtly expect that after ſo many Signs and Wonders performed on behalf of the Iſraelites, after ſo great Teſtimonies given of his Favour to<g ref="char:EOLhyphen"/>wards them, and his Providence o<g ref="char:EOLhyphen"/>ver them, after ſo miraculous a Re<g ref="char:EOLhyphen"/>demption wrought for them, they ſhould never in the leaſt have queſti<g ref="char:EOLhyphen"/>oned his Preſence amongſt them, His Power to ſave them, His Goodneſs to ſupply them; as alas! they were forward to do upon every occaſion; they ſoon forgot the grievous Miſe<g ref="char:EOLhyphen"/>ries they had groaned under, and in<g ref="char:EOLhyphen"/>tollerable
+<pb n="14" facs="tcp:32581:7"/>
+Servitude under which they had been ready to expire, they ſoon loſt the ſenſe of the benefit of Re<g ref="char:EOLhyphen"/>demption and Liberty. They fear<g ref="char:EOLhyphen"/>ed not ungratefully to murmur, even againſt <hi>Moſes</hi> the Glorious Inſtru<g ref="char:EOLhyphen"/>ment of their Deliverance, who for their ſakes had choſen rather to un<g ref="char:EOLhyphen"/>dergo Toil and Labour, to ſuffer Afflictions and Hardſhips, than to live in Eaſe and Quiet, and enjoy the Pleaſures and Honours of <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi>'s Court. When they were in diſtreſs at the Red Sea, they re<g ref="char:EOLhyphen"/>proach'd him, as if he had dealt un<g ref="char:EOLhyphen"/>faithfully with them; and inſtead of deſigning their Good, had contrived their utter Deſtruction. They wiſh<g ref="char:EOLhyphen"/>ed, moſt unthankfully, that they had continued in the Chains and Fet<g ref="char:EOLhyphen"/>ters of <hi>Egypt,</hi> and never experienced
+<pb n="15" facs="tcp:32581:7"/>
+the benefit and ſweetneſs of Liberty. They ſaid unto <hi>Moſes,</hi> Exod. 14. 11, 12. <hi>Becauſe there were no Graves in</hi> Egypt, <hi>haſt thou taken us away to die in the Wilderneſs? Wherefore haſt thou dealt thus with us, to carry us forth out of</hi> Egypt? <hi>Is not this the word which we did tell thee in</hi> Egypt, <hi>Let us alone to ſerve the Egyptians? for it had been better for us to ſerve the Eyptians, than that we ſhould die in this Wilderneſs.</hi> Here God gave them a further proof of his Power and Good<g ref="char:EOLhyphen"/>neſs, dividing the Red Sea for them to paſs through as on dry Ground, bringing the Waters upon their Ene<g ref="char:EOLhyphen"/>mies, and drowning them in the midſt thereof. But they ſoon murmured a<g ref="char:EOLhyphen"/>gain, for the bitterneſs of the Waters;<note place="margin">Exod. 15.24. Exod. 16.</note> then for want of Bread. Then they loathed the Heavenly Mannah, the
+<pb n="16" facs="tcp:32581:8"/>
+Food of Angels, and murmured for want of Fleſh, <hi>Numb.</hi> 11.4, 5. They murmured again, at the Report which ten of the Spies made of the extra<g ref="char:EOLhyphen"/>ordinary ſtrength of <hi>Canaan,</hi> and the prodigious Stature of the Inhabitants. And they proceeded ſo far, as to deſpair of ever entring into poſſeſſion of the Land which God had promi<g ref="char:EOLhyphen"/>ſed and ſworn to give them, and ſaid one to another, <hi>Let us make us a Cap<g ref="char:EOLhyphen"/>tain, and let us return into</hi> Egypt, <hi>Numb.</hi> 14. 1, 2, 3, 4. To which ſome think the Apoſtle does particu<g ref="char:EOLhyphen"/>larly refer in the words of my Text: But others do, with greater probabi<g ref="char:EOLhyphen"/>lity, refer them to the Hiſtory of the 16th Chapter of the ſame Book. When God had puniſhed the Pride and Ambition of <hi>Corah</hi> and <hi>Abiram,</hi> by a new and moſt aſtoniſhing Judg<g ref="char:EOLhyphen"/>ment,
+<pb n="17" facs="tcp:32581:8"/>
+all the Congregation murmu<g ref="char:EOLhyphen"/>red againſt <hi>Moſes,</hi> as if he and his Brother had been the cauſe of it; and they ſaid to them, <hi>Ye have killed the People of the Lord.</hi> In every one of theſe Murmurs were many great Sins involved.</p>
+            <p>As, 1. Forgetfulneſs of the Works of God, of the Miracles of Bounty and Mercy he had performed on their behalf.</p>
+            <p n="2">2. Diſtruſt of the Preſence and Power of God, notwithſtanding what they ſaw with their own Eyes; They ſaid, <hi>Is God amongst us, or not?</hi> tho they ſaw him conſtantly conducting and ſheltering them by a Glorious Cloud: And they ſaid, <hi>Can the Lord furniſh a Table in the Wilderneſs?</hi> tho they had ſeen him give them Drink out of the flinty Rock.</p>
+            <p n="3">
+               <pb n="18" facs="tcp:32581:9"/>3. Disbelief of the Truth of God. They gave greater credit to the Re<g ref="char:EOLhyphen"/>port of the Ten Spies, than to the Promiſe and Oath of God, which was a moſt high Provocation of his Anger. They believed Man, who is Vanity and a Lie, before God who is True and Faithful, and can<g ref="char:EOLhyphen"/>not deny himſelf.</p>
+            <p n="4">4. An undervaluing and contempt of the Benefits they enjoyed, tho they were the greateſt that Man is capable of, the Knowledg of God and his Will, Fellowſhip and Communion with him. The Apoſtle, in the 2d and 3d Verſes of this Chapter, out of which my Text is taken, ſays, That <hi>they did all eat the ſame ſpiritual Meat, and drink of the ſame ſpiri<g ref="char:EOLhyphen"/>tual Drink that we do.</hi> They drank of Chriſt: Yet had they no ſenſe
+<pb n="19" facs="tcp:32581:9"/>
+of the great Goodneſs and Bounty of God towards them, but upon every occaſion were for returning in<g ref="char:EOLhyphen"/>to the Bondage of <hi>Egypt.</hi>
+            </p>
+            <p n="5">5. The baſeſt Ingratitude towards <hi>Moſes,</hi> who choſe rather to ſuffer Affliction with them, that he might conduct them towards the promiſed <hi>Canaan,</hi> than to enjoy the Pleaſures of <hi>Pharaoh</hi>'s Court. We have ſeen their Sin, let us now ſee their Puniſhment. They <hi>were deſtroyed,</hi> ſays the Apoſtle, <hi>of the Deſtroyer:</hi> The Name whereby that Angel is called, who ſlew the Firſt-born of <hi>Egypt,</hi> Exod. 12.23. And the ſig<g ref="char:EOLhyphen"/>nification of <hi>Aſmodaeus,</hi> the Name of that Angel who killed the Huſ<g ref="char:EOLhyphen"/>bands of <hi>Sarah,</hi> the Daughter of <hi>Raguel,</hi>
+               <note place="margin">Tobit 3.8.</note> as we read in the Apocry<g ref="char:EOLhyphen"/>phal Book of <hi>Tobit.</hi> It is true,
+<pb n="20" facs="tcp:32581:10"/>
+               <hi>Moſes</hi> does not ſay expreſly, That the Iſraelites who periſhed for their murmuring, fell by the ſtroak of an Angel. Hiſtorians do not always exactly ſet down every particular Circumſtance attending the Fact whereof they give the Relation, but from the things expreſſed, leave the Reader to conclude concerning thoſe they paſs over in ſilence: Yet <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> does relate, <hi>Numb.</hi> 16.35. That <hi>there came out a Fire from the Lord, and conſumed Two hundred and fifty Men that offered Incenſe;</hi> meaning by the Fire, a deſtroying Angel ap<g ref="char:EOLhyphen"/>pearing in the form of Fire to de<g ref="char:EOLhyphen"/>vour thoſe Murmurers. For ſo the <hi>Pſalmiſt</hi> inſtructs us,<note place="margin">Pſal. 104.4.</note> 
+               <hi>That God makes his Angels Winds, and his Miniſters a flame of Fire;</hi> and they appear ſometimes in Winds, ſometimes in
+<pb n="21" facs="tcp:32581:10"/>
+flames of Fire, as is moſt ſuitable to the Deſign they are ſent upon, and the Execution they are commiſſiona<g ref="char:EOLhyphen"/>ted to do. When <hi>Moſes</hi> ſays of the Ten Spies, that they died of the Plague <hi>before the Lord,</hi> he ſeems to mean that it was by a ſtroke of the Angel of the Lord, as many of the Iſraelites died afterwards, for the Sin of <hi>David</hi> in numbring the Peo<g ref="char:EOLhyphen"/>ple:<note place="margin">70000 <hi>Men</hi> 1 Kings 24.17, 18.</note> for though none elſe perceived that Plague to come from the Hand of the Angel, yet <hi>David</hi> himſelf ſaw the Angel by the Threſhing-Floor of <hi>Araunah</hi> the Jebuſite. <hi>Herod</hi> pe<g ref="char:EOLhyphen"/>riſh'd by the ſtroke of an Angel.<note place="margin">Acts 12.29.</note> And although <hi>Joſephus</hi> the Jew, who has written of his Death, did not underſtand ſo much, yet St. <hi>Luke,</hi> who was enlightned by the Divine Spirit, has aſſured us it was ſo, <hi>Acts</hi>
+               <pb n="22" facs="tcp:32581:11"/>
+12.23. From whence we learn, that ſuch Actions or Performances, as are extraordinary, and above the uſual Courſe, are done by the Miniſte<g ref="char:EOLhyphen"/>ry of Angels, though we have no perception of them. This is it the Apoſtle teaches us, concerning the Judgment on the Iſraelites for their Murmurings, they were executed by the Hand of an Angel, whom he calls <hi>the Deſtroyer;</hi> from that Paſ<g ref="char:EOLhyphen"/>ſage of <hi>Moſes,</hi> already quoted, <hi>Exod.</hi> 12. and from the common belief of the Jews. The greatneſs of the Puniſhment, ſhews how high<g ref="char:EOLhyphen"/>ly God is provoked by this Sin of Murmuring. Therefore,</p>
+            <p n="3">3ly, Let us conſider the Warn<g ref="char:EOLhyphen"/>ing we ſhould take thereby, <hi>Neither murmur ye, as ſome of them alſo
+<pb n="23" facs="tcp:32581:11"/>
+murmured.</hi> God has deliver'd us, as well as the ancient Iſraelites, out of Bondage, and brought us, of this Nation, as well as them, out of Egyptian Servitude. <hi>Egypt</hi> is the Name whereby St. <hi>John</hi> calls the <hi>Papal Empire,</hi> Revel. 11.8. The Bodies of the two Witneſſes he foretells, ſhould lie in the Streets of the great City, which ſpiritually is <hi>Sodom</hi> and <hi>Egypt,</hi>
+               <note place="margin">The Old and New Teſta<g ref="char:EOLhyphen"/>ment diſal<g ref="char:EOLhyphen"/>lowed and rejected, as ſome under<g ref="char:EOLhyphen"/>ſtand it.</note> where alſo our Lord was crucified in his Members, the Profeſſors of true Chriſtianity. The Papal Empire is called <hi>Egypt,</hi> upon a three-fold account.</p>
+            <list>
+               <item>1. Of its Tyranny.</item>
+               <item>2. Of its Pride.</item>
+               <item>3. Of its Bloodſhedding.</item>
+            </list>
+            <p n="1">
+               <pb n="24" facs="tcp:32581:12"/>1. Of its Tyranny. <hi>Egypt,</hi> ac<g ref="char:EOLhyphen"/>cording to the Letter, grievouſly oppreſs'd the People of God: and the City, ſpiritually called <hi>Egypt,</hi> exerciſes a grievous Tyranny over the Spirits and Souls of Men; the Ro<g ref="char:EOLhyphen"/>man Church requires of Men a blind Obedience, and an implicit Faith, that they believe what is taught them, without examining or enqui<g ref="char:EOLhyphen"/>ring: though the Command of the ſpiritual Superior be unreaſonable, yet the Inferior (they teach) is bound to obey. And if the Church af<g ref="char:EOLhyphen"/>firms that to be Black, which our own Eyes judg to be White, we ought to ſay it is Black. God, the great Sovereign of the World, does not treat Men thus, He calls upon them to conſider, commands them to ſearch, examine, try, and prove
+<pb n="25" facs="tcp:32581:12"/>
+all things; and the <hi>Bereans</hi> are ex<g ref="char:EOLhyphen"/>preſly commended for ſearching the Scriptures daily, whether the things which the Apoſtles (who were Per<g ref="char:EOLhyphen"/>ſons divinely inſpired) taught, were ſo.</p>
+            <p n="2">2. The Papal Empire is called <hi>Egypt</hi> upon the account of it's Pride. <hi>Who is the Lord, ſaid</hi> Pharaoh, <hi>the King of</hi> Egypt, <hi>(according to the Let<g ref="char:EOLhyphen"/>ter,) that I ſhould let</hi> Iſrael <hi>go? I know not the Lord,</hi> &amp;c. And the Popes are told, That they can do all things, that they may do what they liſt, that none may ſay unto the Pope, <hi>Domine, cur ſic facis?</hi> That they, may diſpenſe againſt the Law of <hi>Moſes,</hi> againſt the Apoſtle, againſt the Old and New Teſtament, a<g ref="char:EOLhyphen"/>gainſt the Law of Nature, and may
+<pb n="26" facs="tcp:32581:13"/>
+declare <note n="*" place="margin">
+                  <hi>Bellarm.</hi> l. 4. c. 5. de ſummo Pon<g ref="char:EOLhyphen"/>tifice.</note> Juſt to be Unjuſt, and Un<g ref="char:EOLhyphen"/>juſt to be Juſt. <note n="†" place="margin">Deus, nu<g ref="char:EOLhyphen"/>men Maje<g ref="char:EOLhyphen"/>ſtas Divi<g ref="char:EOLhyphen"/>na, Chri<g ref="char:EOLhyphen"/>ſtus, Leo de Tribu Ju<g ref="char:EOLhyphen"/>dae, Serva<g ref="char:EOLhyphen"/>tor Sionis, Lapis angu<g ref="char:EOLhyphen"/>laris, <hi>&amp;c. He has all Power in Heaven and Earth.</hi> C.L. S. L. 10.</note> They are called <hi>God,</hi> the <hi>Vicegerent of God,</hi> the <hi>Vi<g ref="char:EOLhyphen"/>car of Jeſus Chriſt, Vice-God:</hi> They exalt themſelves above all that is cal<g ref="char:EOLhyphen"/>led God; above all the Kings of the Earth, above all the Saints, canoni<g ref="char:EOLhyphen"/>zing them at their pleaſure, above the Euchariſt, which they expreſly call <hi>God,</hi> (<note n="‖" place="margin">C. à L. Adde Sa<g ref="char:EOLhyphen"/>cerdotem, &amp;c. <hi>Heb.</hi>
+               </note> every Prieſt, in the Maſs, is after a ſort greater than Chriſt) above the Scriptures, where<g ref="char:EOLhyphen"/>in God ſpeaks unto them.</p>
+            <p n="3">3. The Papal Empire is call'd <hi>Egypt,</hi> upon the account of ſhed<g ref="char:EOLhyphen"/>ding of Blood, or deſtroying of Lives. In <hi>Egypt</hi> (according to the Letter) it was ordered that all the Males of the Iſraelites ſhould be drown'd in the River <hi>Nile,</hi> ſo ſoon
+<pb n="27" facs="tcp:32581:13" rendition="simple:additions"/>
+as they were born. And in the Ci<g ref="char:EOLhyphen"/>ty, ſpiritually called <hi>Egypt,</hi> our Lord Jeſus Chriſt has been crucified in his Members. Not to mention the Execution done upon <hi>John Hus</hi> and <hi>Jerome</hi> of <hi>Prague,</hi> by Order of the Council of <hi>Conſtance;</hi> here in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in one Reign, which was but little above Five Years, there were almoſt Four hundred Perſons de<g ref="char:EOLhyphen"/>ſtroyed, by Impriſonments, Tor<g ref="char:EOLhyphen"/>ments, Famine and Fire, beſides ſuch as were ſecretly murdered in Priſons. Of the Number now men<g ref="char:EOLhyphen"/>tion'd, there were above Twenty who had Authority or Office in the Church, of Women above Sixty, of Children alſo a great Number. Of the Women, ſome were great with Child: One is particularly re<g ref="char:EOLhyphen"/>corded, out of whoſe Body the
+<pb n="28" facs="tcp:32581:14"/>
+Child, being by the violence of the Fire expelled alive, was, by a bar<g ref="char:EOLhyphen"/>barity far exceeding that of the an<g ref="char:EOLhyphen"/>cient Egyptians, thrown into the Fire again. Upon this three-fold account the Papal Empire is called <hi>Egypt,</hi> out of which God has long ſince delivered us of this Nation. And when we were in danger to be carried back into <hi>Egypt,</hi> by the wicked Counſels of Roman Prieſts, God made a way for us to eſcape, and raiſed us up a mighty Deliverer, a glorious Prince, excelling in Wiſ<g ref="char:EOLhyphen"/>dom and Goodneſs, who reſcued us, without converſion of our Waters into Blood, and in a manner, with<g ref="char:EOLhyphen"/>out effuſion of Blood. All the Cir<g ref="char:EOLhyphen"/>cumſtances attending our Delive<g ref="char:EOLhyphen"/>rance, do plainly ſhew the Hand of God in it. They are too many to
+<pb n="29" facs="tcp:32581:14"/>
+be mention'd here. Who ſhould interpoſe to preſerve us from being carried back into <hi>Babylon,</hi> (ſo <hi>Rome</hi> is alſo called, upon the account of the Idolatries ſhe is guilty of, in ſix Kinds, as you have formerly heard from me) but he who had called us out of <hi>Babylon?</hi> ſaying, <hi>Revel.</hi> 18.4. <hi>Come out of her, my People, that ye be not partakers of her Sins, and that ye receive not of her Plagues.</hi>
+            </p>
+            <p>But we were in no danger of this, ſome will reply, for we could not be carried back without our own conſent.</p>
+            <p>True, but then, it is highly in<g ref="char:EOLhyphen"/>credible, that God who ſent his Son to ſave, not to deſtroy Mens Lives, ſhould expect that a whole Nation, living under the protection of Juſt Laws, of Laws made on purpoſe
+<pb n="30" facs="tcp:32581:15"/>
+to ſecure their Perſons and Eſtates, in the open profeſſion and publick exerciſe of their Holy Religion, ſhould, as one Man, ſubmit their Body to the Flames. Our Circum<g ref="char:EOLhyphen"/>cumſtances were very different from thoſe of the Primitive Chriſtians, the Laws of their Country were againſt them, the Laws of Ours were for us. Their Religion was condem<g ref="char:EOLhyphen"/>ned by the Laws; Ours was eſta<g ref="char:EOLhyphen"/>bliſh'd by them. The 11th <hi>Chap.</hi> of the Book of the <hi>Revelations,</hi> contains a Prediction of this laſt and great Perſecution of the Proteſtant, or Chriſtian Religion; but it is ex<g ref="char:EOLhyphen"/>preſſed in ſuch words, as not to reach this Kingdom of Ours, as that excellent Perſon <hi>Monſieur Jurieux</hi> obſerved, in his Book called, <hi>L' ac<g ref="char:EOLhyphen"/>compliſhment des Prophecies o'u la De<g ref="char:EOLhyphen"/>liverance
+<pb n="31" facs="tcp:32581:15"/>
+Prochaine de l' Egliſe,</hi> Tom. 2. <hi>pag.</hi> 151. where he alſo makes mention of the Prophecy of Biſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſher,</hi> which in his Judgment is not to be underſtood according to the Letter. It ſeems then, that God did from the beginning intend to diſap<g ref="char:EOLhyphen"/>point the wicked Counſels and Con<g ref="char:EOLhyphen"/>trivances of the Roman Clergy. Which he has accordingly done, and thereby has continued to us the great<g ref="char:EOLhyphen"/>eſt and moſt excellent Bleſſings: while others are under a thick and black Darkneſs, we have Light in our Habitations, even the Light of God's Holy Word; we are fed with the Celeſtial Manna, the true Bread from Heaven. We loſe nothing by rejecting the Doctrine of Tranſub<g ref="char:EOLhyphen"/>ſtantiation, which the Apoſtle over<g ref="char:EOLhyphen"/>throws, calling the Food of the Eu<g ref="char:EOLhyphen"/>chariſt,
+<pb n="32" facs="tcp:32581:16"/>
+               <hi>Spiritual Meat,</hi> Verſ. 3. of this <hi>Chapter,</hi> out of which the Text is taken, we are admitted <hi>to drink of the Spiritual Rock Chriſt Jeſus,</hi> a Priviledg which is denied to them of the Roman Communion, ſo that they are, by their own Guides, ex<g ref="char:EOLhyphen"/>cluded from having Fellowſhip with Chriſt in his Death.</p>
+            <p>There are alſo other great Bleſ<g ref="char:EOLhyphen"/>ſings continued to us, as the Benefit of our Laws and Liberties: Now therefore let us not murmur and complain, as if we would make us a Captain that ſhould bring us back into <hi>Egypt.</hi> Admit that many of our Fore-fathers, who died in the Communion of the Roman Church were ſaved, may we therefore, with<g ref="char:EOLhyphen"/>out any hazard of our Salvation, re<g ref="char:EOLhyphen"/>turn thither? Such reaſoning con<g ref="char:EOLhyphen"/>demns
+<pb n="33" facs="tcp:32581:16"/>
+the Generation of God's Children. <hi>Abraham</hi> might have been ſaved, had he died in <hi>Chaldea;</hi> yet after that God had once brought him out of that place of Idolatrous Worſhip, he would not return thi<g ref="char:EOLhyphen"/>ther, but choſe rather to ſuffer any hardſhips. It was Matter of Con<g ref="char:EOLhyphen"/>ſcience to him not to return. If we would approve our ſelves the Children of <hi>Abraham,</hi> we muſt do the Works of <hi>Abraham. Moſes</hi> his Fore-fathers, who died in <hi>Egypt,</hi> might be ſaved; yet when <hi>Moſes,</hi> by the good Providence of God, had once eſcap'd out of <hi>Egypt,</hi> he choſe rather to ſuffer Affliction with the People of God, than by conti<g ref="char:EOLhyphen"/>nuing there to enjoy Eaſe and Plea<g ref="char:EOLhyphen"/>ſure. Our Fore-fathers who died in the Roman Communion, might be
+<pb n="34" facs="tcp:32581:17" rendition="simple:additions"/>
+ſaved; but God having called us out of it, it is Matter of Conſci<g ref="char:EOLhyphen"/>ence to us not to return into it. Let us therefore bleſs God for our Deli<g ref="char:EOLhyphen"/>verance, and not murmur as the Iſ<g ref="char:EOLhyphen"/>raelites did, leſt we ſuffer as they al<g ref="char:EOLhyphen"/>ſo ſuffered.</p>
+            <p>
+               <hi>Neither murmur ye, as ſome of them alſo murmured, and were deſtroyed of the Deſtroyer.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:32581:17"/>
+            <head>Books lately Printed and Sold by <hi>Jonathan</hi> Robinſon, at the Golden Lion in St. <hi>Pauls</hi> Church-yard, relating to the great Revoluti<g ref="char:EOLhyphen"/>ons and Affairs in <hi>England, 1688, 1689.</hi>
+            </head>
+            <list>
+               <item>☞ AN Account of the Reaſons of the Nobility and Gentry's Invitation of the Prince of <hi>Orange</hi> into <hi>England;</hi> Being a <hi>Memorial</hi> from the Engliſh Proteſtants concerning their Grievances; with a large Account of the Birth of the Prince of <hi>Wales:</hi> preſented to their Highneſſes the Prince and Princeſs of <hi>Orange.</hi>
+               </item>
+               <item>A Collection of Political and Hiſtorical Papers relating to the Preſent Juncture of Affairs in <hi>England,</hi> in Ten Parts; which will be Continued from Time to Time, according as Matter occurs.</item>
+               <item>A Brief Hiſtory of the Succeſſion of the Crown of <hi>England,</hi> &amp;c. Col<g ref="char:EOLhyphen"/>lected out of the Records, and the moſt Authentick Hiſtorians; written for the Satisfaction of the Nation.</item>
+               <item>Wonderful Predections of <hi>Noſtredamus, Grebner, David Pareus,</hi> and <hi>Antonius Torquatus;</hi> wherein the Grandeur of their Preſent Majeſties, the Happineſs of <hi>England,</hi> and Downfall of <hi>France</hi> and <hi>Rome</hi> are plainly Delineated. With a large Preface, ſhewing, That the Crown of <hi>England,</hi> has not been obſcurely foretold to their Majeſties <hi>William</hi> the 3d, and Queen <hi>Mary,</hi> late Prince and Princeſs of <hi>Orange,</hi> and that the People of this Ancient Monarchy have duly contributed thereunto, in the preſent Aſſembly of Lords and <hi>Commons,</hi> not<g ref="char:EOLhyphen"/>withſtanding the Objections of Men of different Extremes.</item>
+               <item>A Seaſonable Diſcourſe, wherein is examined, what is lawful during the Confuſions and Revolutions of Government, eſpecially in the Caſe of a King deſerting his Kingdoms; and how far a Man may lawfully conform to the Powers and Commands of thoſe, who with Various Succeſſes hold King<g ref="char:EOLhyphen"/>doms. Whether it be lawful. (1) In Paying Taxes. (2) In perſonal Service. (3) In taking of Oaths. (4) In giving up himſelf to a final Allegiance.</item>
+               <item>A Seaſonable Treatiſe; wherein is proved, That King <hi>William</hi> (commonly called the <hi>Conqueror</hi>) did not get the <hi>Imperial Crown</hi> of <hi>England</hi> by the Sword, but by the Election and Conſent of the People. To whom he ſwore to ob<g ref="char:EOLhyphen"/>ſerve the <hi>Original Contract</hi> between King and People.</item>
+               <item>An Anſwer to a Paper Intituled, <hi>The Deſertion Diſcuſſed:</hi> being a Vindica<g ref="char:EOLhyphen"/>tion of the Proceedings of the late Honourable Convention, in their Filling up the Throne with King <hi>William</hi> and Queen <hi>Mary.</hi>
+               </item>
+               <item>An Exact Collection of the Debates of the Houſe of Commons (particu<g ref="char:EOLhyphen"/>larly ſuch as relate to the Bill of Excluſion, a Popiſh Succeſſor, <hi>&amp;c.</hi>) held at <hi>Weſtminſter, Octob.</hi> 21. 1680; Prorogued the 10th, and Diſſolved the 18th of <hi>January</hi> following. With the Debates of the Houſe of Commons at <hi>Oxford,</hi> Aſſembled <hi>March</hi> 21. 1680. Alſo a Juſt and Modeſt Vindication of the Proceedings of the ſaid Parliaments.</item>
+               <item>
+                  <pb facs="tcp:32581:18"/>
+                  <hi>Julian's</hi> Arts to Undermine and Extirpate Chriſtianity, <hi>&amp;c.</hi> By <hi>Samuel Johnſon.</hi> The Impreſſion of which Book was made in the Year 1683, and has ever ſince lain buried under the Ruins of all thoſe Engliſh Rights whic hit endeavoured to defend; but by the Auſpicious and Happy Arrival of the Prince of <hi>Orange,</hi> both They and It have obtained a Reſurrection.</item>
+               <item>Dr. <hi>Gilbert Burnet</hi> (now Biſhop of <hi>Salisbury</hi>) his Tracts, in Two Vollumes; in which are contained ſeveral Things relating to the Affairs of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>The Myſtery of Iniquity working in the Dividing of Proteſtants, in order to the ſubverting of Religion, and our Laws, for almoſt the ſpace of thir<g ref="char:EOLhyphen"/>ty Years laſt paſt, plainly laid open. With ſome Advices to Proteſtants of all Perſwaſions, in the preſent Juncture of our Affairs. To which is added, A Specimen of a Bill for uniting of Proteſtants.</item>
+               <item>Liberty of Conſcience now highly neceſſary for <hi>England,</hi> humbly repreſented to this preſent Parliament.</item>
+               <item>An Enquiry into, and Derection of the Barbarous Murther of the late Earl of <hi>Eſſex,</hi> (now under conſideration of a Committee of the Houſe of Lords): Or, a Vindication of that Noble Perſon, from the Guilt and Infamy of having deſtroyed himſelf.</item>
+               <item>An Account of the Trial of Mr. <hi>Papillon.</hi> To which is added, The Matter of Fact in the chuſing of Sheriffs in Sir <hi>John Moor</hi>'s Year, now under the con<g ref="char:EOLhyphen"/>ſideration of the Committee for Grievances.</item>
+               <item>A Collection of ſtrange Predictions of Mr. <hi>J. P.</hi> for the Years 1687, and 1688; about K. <hi>James</hi> the Second, Prince of <hi>Wales,</hi> and the ſcampering away of many great Miniſters of State.</item>
+               <item>Arguments againſt the Diſpenſing Power, in Anſwer to L. C. J. <hi>Herbert.</hi>
+               </item>
+               <item>
+                  <hi>The Royal Cards;</hi> Being a lively Repreſentation of the late Popiſh and Ty<g ref="char:EOLhyphen"/>rannical Deſigns, and of the wonderful Deliverance of this Kingdom from the ſame, by the glorious Expedition of <hi>William Henry</hi> Prince of <hi>Orange,</hi> now King of <hi>England,</hi> (whom God long preſerve) in curious Copper Plates. Price 1. <abbr>
+                     <hi>s.</hi>
+                  </abbr> a Pack.</item>
+               <item>A Friendly Debate between Dr. <hi>Kingſman,</hi> a diſſatisfied Clergy-man, and <hi>Gratianus Trimmer,</hi> a Neighbour Miniſter, concerning the late Thankſgiving-Day; the Prince's Deſcent into <hi>England;</hi> the Nobility and Gentries joining with him; the Acts of the Honourable Convention; the Nature of our Eng<g ref="char:EOLhyphen"/>liſh Government; the Secret League with <hi>France;</hi> the Oaths of Allegiance and Supremacy, <hi>&amp;c.</hi> With ſome Conſiderations on Biſhop <hi>Sanderſon</hi> and Dr. <hi>Falk<g ref="char:EOLhyphen"/>ner,</hi> about Monarchy, Oaths, <hi>&amp;c.</hi> Written for the Satisfaction of ſome of the Clergy, and others that yet labour under Scruples. By a Miniſter of the Church of <hi>England.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:32581:18"/>
+         </div>
+      </back>
+   </text>
+</TEI>
